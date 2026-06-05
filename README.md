@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🛡️ sa'ns
+<img src="assets/logo.png" alt="sans" width="200" />
 
-**Sicher feiern – und im Trubel aufeinander aufpassen.**
+### Sicher feiern – und im Trubel aufeinander aufpassen.
 
 Eine Safety-Buddy-App für Partys & Events: Melde dich an, lege Partys an und
 beauftrage andere Gäste, auf jemanden aufzupassen, der/die alleine unterwegs ist.
